@@ -1,0 +1,9 @@
+Package: com.michaelmelita1.medusa12
+Name: Medusa12
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Medusa for iPad Air on iOS 12
+Maintainer: Michael Melita
+Author: Michael Melita
+Section: Tweaks

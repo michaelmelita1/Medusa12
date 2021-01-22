@@ -1,6 +1,6 @@
 Package: com.michaelmelita1.medusa12
 Name: Medusa12
-Depends: mobilesubstrate, firmware (<= 12.5)
+Depends: mobilesubstrate, firmware (<= 12.5.1)
 Version: 0.0.1
 Architecture: iphoneos-arm
 Description: Medusa for iPad Air on iOS 12
